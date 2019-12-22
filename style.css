@@ -1,0 +1,12 @@
+@import url("https://fonts.googleapis.com/css?family=Lato:400");
+
+html {
+    line-height: 1.15;
+    box-sizing: border-box;
+    background-color: #ffffff;
+    font-family: 'Lato', sans-serif;
+    font-weight: 400;
+    font-size: 14px;
+    color: #666;
+    line-height: 1.7;
+}
